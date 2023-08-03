@@ -1,3 +1,11 @@
+# <img src="https://www.emojiall.com/images/120/twitter/twemoji-13.0.1/1f1f0-1f1f7.png" srcset="https://www.emojiall.com/images/120/twitter/twemoji-13.0.1/1f1f0-1f1f7.png 3x" style="position: relative; top: 10px "/> 🧑‍💻 I'm haewon / 임해원
+👋 I am Student Developer (임해원)!
+## About me
+🎂 born in 2006<br>
+👨 gender : male
+<details>
+<summary>show</summary>
+</details>
 ### Hi there 👋
 
 <!--
