@@ -11,7 +11,6 @@
 
 ## contacts
 
-<a href="https://dev.haewon@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=gmail&logoColor=f3f3f3"/></a>
 <a href="https://www.youtube.com/channel/UCl4Gj1GolNH5_BzeCzQbNFw" target="_blank"><img src="https://img.shields.io/badge/Youtube-FF0000?style=flat&logo=youtube&logoColor=f3f3f3"/></a>
 <a href="https://soundcloud.com/dev_haewon" target="_blank"><img src="https://img.shields.io/badge/SoundCloud-FF791A?style=flat&logo=soundcloud&logoColor=f3f3f3"/></a>
 <a href="https://www.instagram.com/dev.haewon/" target="_blank"><img src="https://img.shields.io/badge/Instagram-bc4b7b?style=flat&logo=instagram&logoColor=f3f3f3"/></a>
