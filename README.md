@@ -22,4 +22,4 @@
 
 ## Status
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dev_haewon)](https://solved.ac/dev_haewon/)
-<img src="https://github-readme-stats.vercel.app/api?username=dev-haewon&show_icons=true&theme=radical" width="400px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dev-korean&show_icons=true&theme=radical" width="400px"/>
