@@ -1,5 +1,4 @@
-# <img src="https://www.emojiall.com/images/120/twitter/twemoji-13.0.1/1f1f0-1f1f7.png" width="40px" style="position: relative; top: 10px "/> 🧑‍💻 I'm haewon / 임해원
-👋 I am Student Developer (임해원)!
+# <img src="https://www.emojiall.com/images/120/twitter/twemoji-13.0.1/1f1f0-1f1f7.png" width="40px" style="position: relative; top: 10px "/> 🧑‍💻 dev_korean / 코드 장인
 ## About me
 🗓️ starting in 2023
 
